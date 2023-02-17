@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Pokedex
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+ **Practice using React components and properties.** 
+
+### View it [here](https://guillaumeauger85.github.io/Pokedex/) 
+
+**Screenshot** 
+
+![Pokedex](https://user-images.githubusercontent.com/49698792/219773283-3d2ff60d-9d5e-441d-8698-404e0af6a014.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
