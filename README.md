@@ -4,7 +4,7 @@
 
  **Practice using React components and properties.** 
 
-### View it [here](https://guillaumeauger85.github.io/Pokedex/) 
+### View it [here](https://guillaumeauger85.github.io/Pokedex/)!
 
 **Screenshot** 
 
